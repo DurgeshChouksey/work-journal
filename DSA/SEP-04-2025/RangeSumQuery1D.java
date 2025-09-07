@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/range-sum-query-immutable/
+
 import java.util.*;
 
 public class RangeSumQuery1D {

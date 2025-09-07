@@ -1,5 +1,7 @@
-import java.util.*;
+// https://leetcode.com/problems/range-sum-query-2d-immutable/description/
 
+
+import java.util.*;
 public class RagneSumQuery2D {
 
 }
